@@ -1,10 +1,6 @@
-### Minhas Linguagens Mais Usadas
+# Hello, I'm Jhonatan 👋 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-Services&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-# Olá, eu sou SEU_NOME 👋
-
-### Sobre mim
+### About me
 
 Eu sou um(a) desenvolvedor(a) focado(a) em **[Sua Área de Foco, ex: Back-end com Python e Go]**.
 
