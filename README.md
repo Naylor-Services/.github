@@ -2,13 +2,13 @@
 
 ### About me
 
-Eu sou um(a) desenvolvedor(a) focado(a) em **[Sua Área de Foco, ex: Back-end com Python e Go]**.
+I'm a developer focused on **[i'm , e.g. Back-end with Python and Go]**. 
 
-* 🔭 Atualmente estou trabalhando em: **[Seu Projeto Atual ou Trabalho]**
-* 🌱 Estou aprendendo atualmente: **[Tecnologia/Linguagem]**
-* 💬 Pergunte-me sobre: **[Assuntos que você domina, ex: JavaScript, React, APIs REST]**
-* 📫 Como me encontrar: **[Seu Email ou LinkedIn]**
-* ⚡ Fato divertido: **[Curiosidade sobre você]**
+* 🔭 I'm currently working on: **[Your Current Project or Work]**
+* 🌱 I'm currently learning: **[Technology/Language]**
+* 💬 Ask me about: **[Subjects you master, e.g., JavaScript, React, REST APIs]**
+* 📫 How to find me: **[Your Email or LinkedIn]**
+* ⚡ Fun fact: **[Fun fact about you]**
 
 ### Estatísticas do GitHub
 
