@@ -1,7 +1,6 @@
-# Tools
 ### Minhas Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-Services&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Olá, eu sou SEU_NOME 👋
 
@@ -17,8 +16,8 @@ Eu sou um(a) desenvolvedor(a) focado(a) em **[Sua Área de Foco, ex: Back-end co
 
 ### Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naylor-Services&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-Services&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
